@@ -7,6 +7,6 @@ Data visualization is the representation of data through the use of common graph
 
 This is the first visualization I've ever done and followed tutorial videos on youtube to create this notebook.
 
-https://www.kaggle.com/code/vilasr/eda-on-stackoverflow-2022-survey?scriptVersionId=109012077
+https://www.kaggle.com/code/vilasr/eda-on-stackoverflow-2022-survey
 
 Data used : https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022
